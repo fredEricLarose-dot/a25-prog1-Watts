@@ -1,7 +1,5 @@
-﻿using System.ComponentModel;
-
-const double WATT_PAR_HEURES = 150.0;
-const double COUT_PAR_HEURE = 0.225;
+﻿const double WATT_PAR_HEURES = 150.0;
+const double COUT_PAR_HEURE = 0.15 / 100.0;
 
 string entree;
 double heuresDUtilisation;
